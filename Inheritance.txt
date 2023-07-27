@@ -1,0 +1,35 @@
+Inheritance
+
+
+
+Dentist is a Doctor
+Netflix is a OttPlatform
+Xworkz is a Institute
+Pvr is a Theatre
+EarRing is a Accesseries
+Earth is a Planet
+Instagram is a SocialMediaApp
+Mobile is a ElectronicDevice
+Hp is a Laptop
+Hockey is a Sport
+Eclipse is a IDE
+Table is a Furniture
+FlipKart is a ECommerce
+PubG is a OnlineGame
+Google is a SearchEngine
+Zomato is a FoodDeliveryApp
+Sbi is a Bank
+SevenUp is a Beverages
+Uber is a CabTaxiApp
+Vtu is a University
+Bangalore is a City
+LulluMall is a Mall
+Alexa is a VirtualAssistance
+Windows is a OS
+Black is a Color
+Inheritance is a JavaConcept
+Heart is a Organ
+India is a Country
+BJP is a PoliticalParty
+Harmonium is a MusicalInstrument
+MLA is a Minister

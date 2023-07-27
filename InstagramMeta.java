@@ -1,0 +1,3 @@
+class InstagramMeta extends SocialMediaApp {
+	
+}

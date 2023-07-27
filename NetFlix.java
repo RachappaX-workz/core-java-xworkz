@@ -1,0 +1,3 @@
+class NetFlix extends OttPlatform {
+	
+}
